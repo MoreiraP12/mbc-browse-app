@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.95519214.css",
-    "main.js": "/test/static/js/main.2f209292.js",
-    "static/js/453.cede5819.chunk.js": "/test/static/js/453.cede5819.chunk.js",
-    "index.html": "/test/index.html",
-    "main.95519214.css.map": "/test/static/css/main.95519214.css.map",
-    "main.2f209292.js.map": "/test/static/js/main.2f209292.js.map",
-    "453.cede5819.chunk.js.map": "/test/static/js/453.cede5819.chunk.js.map"
+    "main.css": "/mbc-browse-app/static/css/main.95519214.css",
+    "main.js": "/mbc-browse-app/static/js/main.58462df1.js",
+    "static/js/453.cede5819.chunk.js": "/mbc-browse-app/static/js/453.cede5819.chunk.js",
+    "index.html": "/mbc-browse-app/index.html",
+    "main.95519214.css.map": "/mbc-browse-app/static/css/main.95519214.css.map",
+    "main.58462df1.js.map": "/mbc-browse-app/static/js/main.58462df1.js.map",
+    "453.cede5819.chunk.js.map": "/mbc-browse-app/static/js/453.cede5819.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95519214.css",
-    "static/js/main.2f209292.js"
+    "static/js/main.58462df1.js"
   ]
 }
