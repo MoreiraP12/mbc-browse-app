@@ -7,6 +7,7 @@ import MedBrowseCompIntroduction from './MedBrowseCompIntroduction';
 import MedBrowseCompDetails from './MedBrowseCompDetails';
 import MedBrowseCompResults from './MedBrowseCompResults';
 import MedBrowseCompAuthors from './MedBrowseCompAuthors';
+import MedBrowseCompCitation from './MedBrowseCompCitation';
 
 function App() {
   const githubLink = "https://github.com/shan23chen/MedBrowseComp";
@@ -78,6 +79,9 @@ function App() {
           <a href="#research-questions" className="flex items-center hover:text-sky-600 dark:hover:text-sky-400 transition-colors font-medium py-2 border-b-2 border-transparent hover:border-sky-500 dark:hover:border-sky-400">
             <Search size={18} className="mr-1.5" /> Research Questions
           </a>
+          <a href="#citation" className="flex items-center hover:text-sky-600 dark:hover:text-sky-400 transition-colors font-medium py-2 border-b-2 border-transparent hover:border-sky-500 dark:hover:border-sky-400">
+            <BookOpen size={18} className="mr-1.5" /> Citation
+          </a>
           <a href="#authors" className="flex items-center hover:text-sky-600 dark:hover:text-sky-400 transition-colors font-medium py-2 border-b-2 border-transparent hover:border-sky-500 dark:hover:border-sky-400">
             <Users size={18} className="mr-1.5" /> Authors
           </a>
@@ -94,6 +98,7 @@ function App() {
             <MedBrowseCompHops />
           </div>
         </section>
+        <MedBrowseCompCitation />
         <MedBrowseCompAuthors />
       </main>
 
